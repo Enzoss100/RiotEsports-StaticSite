@@ -5,3 +5,6 @@ This repository is for a school project created for Websystems and Technologies 
 - HTML
 - CSS
 This is purely a static site with no scripting of any kind.
+
+# Historical Context
+This school project was created in preparation for the League of Legends World Championship 2022, so none of the information here is up to date with the current happenings in the Esport, or leagues involved.
